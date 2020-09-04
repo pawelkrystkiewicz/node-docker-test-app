@@ -32,7 +32,7 @@
 		"markdown-pdf": "^9.0.0",
 		"pg": "^7.11.0",
 		"reflect-metadata": "^0.1.10",
-		"type-graphql": "^0.16.0",
+		"type-graphql": "^0.17.6",
 		"typeorm": "^0.2.16",
 		"typescript": "^3.4.5",
 		"underscore": "^1.9.1"
